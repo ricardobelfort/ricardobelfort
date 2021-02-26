@@ -19,7 +19,7 @@ In my free time I'm learning ReactJS and NodeJS.
 ### How to reach me 📫
 In the left sidebar are my info.
 
-[![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardobelfort&show_icons=true&theme=dark&show_icons=true&count_private=true)](https://github.com/ricardobelfort/github-readme-stats)
+[![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardobelfort&show_icons=true&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/ricardobelfort/github-readme-stats)
 
 <!--
 **ricardobelfort/ricardobelfort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
