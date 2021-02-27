@@ -6,7 +6,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/RicardoBelfort)](https://www.youtube.com/c/RicardoBelfort)
 
 ### About me
-My name is Ricardo Belfort, {Frontend Developer} at [@opahit](https://www.opah.com.br/), Sofia's Dad and Gamer.
+My name is Ricardo Belfort, I'm a {Frontend Developer} at [@opahit](https://www.opah.com.br/), Sofia's Dad and Gamer.
 
 Currently focused on JavaScript | TypeScript | Angular
 
@@ -17,7 +17,7 @@ I'm working on a Internet Banking Project at Banco Fibra.
 In my free time I'm learning ReactJS and NodeJS.
 
 ### How to reach me 📫
-In the left sidebar are my info.
+<<< On your left you can see my info.
 
 [![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardobelfort&show_icons=true&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/ricardobelfort/github-readme-stats)
 
