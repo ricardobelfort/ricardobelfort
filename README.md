@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardobelfort/)](https://www.linkedin.com/in/ricardobelfort/)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ricardobelfort)](https://github.com/ricardobelfort)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dc0272?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ricardobelfort/)](https://www.instagram.com/ricardobelfort/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ricardobelfort)](https://twitter.com/ricardobelfort)
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/RicardoBelfort)](https://www.youtube.com/c/RicardoBelfort)
 
