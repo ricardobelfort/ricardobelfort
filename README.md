@@ -9,10 +9,11 @@
 ### About me
 My name is Ricardo Belfort, I'm a {Frontend Developer} at [@opahit](https://www.opah.com.br/), Sofia's Dad and Gamer.
 
-Currently focused on JavaScript | TypeScript | Angular
+Currently focused on JavaScript | TypeScript | Angular and React
 
 ### Working on 🔭
-I'm working on a Internet Banking Project at Banco Fibra.
+I'm working on [TeuCard](https://useteucard.com.br/) at Nova Era.
+Last project that I've worked was Internet Banking at Banco Fibra.
 
 ### Learning 🌱
 In my free time I'm learning ReactJS and NodeJS.
