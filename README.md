@@ -1,22 +1,20 @@
 # Hi, I'm Ricardo! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ricardobelfort/)](https://www.linkedin.com/in/ricardobelfort/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ricardobelfort)](https://github.com/ricardobelfort)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dc0272?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ricardobelfort/)](https://www.instagram.com/ricardobelfort/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ricardobelfort)](https://twitter.com/ricardobelfort)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/c/RicardoBelfort)](https://www.youtube.com/c/RicardoBelfort)
 
 ### About me
-My name is Ricardo Belfort, I'm a {Frontend Developer} at [@opahit](https://www.opah.com.br/), Sofia's Dad and Gamer.
-
-Currently focused on JavaScript | TypeScript | Angular and React
+My name is Ricardo Belfort, currently I'm a {Frontend Developer} focused on Angular Stack with JavaScript, TypeScript and RxJs.
+I have a bachelor's degree in Information Systems from Uninorte College.
+I was born in Manaus-AM and current i'm still here.
+I'm Sofia's Dad and in my free time I try to be a gamer 🎮
 
 ### Working on 🔭
-I'm working on [TeuCard](https://useteucard.com.br/) at Nova Era.
-Last project that I've worked was Internet Banking at Banco Fibra.
+Last project that I've worked was Internet Banking at Banco PAN.
 
 ### Learning 🌱
-In my free time I'm learning ReactJS and NodeJS.
+In my free time I'm learning and getting new skills like NodeJS, Express, MySQL, MongoDB and AWS.
 
 ### How to reach me 📫
 <<< On your left you can see my info.
